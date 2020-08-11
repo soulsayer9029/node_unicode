@@ -1,0 +1,18 @@
+{
+  "name": "Node_Unicode",
+  "version": "1.0.0",
+  "main": "jokes_task2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
